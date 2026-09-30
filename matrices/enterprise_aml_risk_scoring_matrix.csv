@@ -1,0 +1,6 @@
+Risk_Category,Risk_Factor,Weight_Percent,Low_Risk_Criteria (1),Medium_Risk_Criteria (2),High_Risk_Criteria (3)
+Customer Type,Legal Entity / Individual,20,Resident individual with verified salary,Registered SME with audited records,Complex offshore trust / Non-resident entity
+PEP Status,Politically Exposed Person,15,No PEP association,Domestic PEP / Family member,Foreign Senior PEP / High-profile PEP
+Geographic,Country of Origin / Destination,25,FATF compliant FATF low-risk,Monitored jurisdiction (FATF grey list),FATF Call for Action (Blacklist) / Sanctioned
+Transaction Mode,Delivery Channel,20,Face-to-face biometric branch verified,Online verified digital banking,Third-party cash depositor / Anonymous agent
+Product Type,Remittance & Asset Type,20,Standard low-value domestic transfer,Cross-border trade payment,High-value rapid cross-border pass-through
